@@ -1,4 +1,6 @@
 /**
+Jiahuang Wu, Milan Thapaliya & 
+Gary Straub. Team East
  * POINTERS TUTORIAL
  * CREDIT: tutorials point c++ pointer tutorials
  * http://www.tutorialspoint.com/cplusplus/cpp_pointers.htm
